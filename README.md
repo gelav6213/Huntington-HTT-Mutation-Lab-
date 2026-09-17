@@ -18,4 +18,4 @@
 
 **Galaxy history name:** Villegas A._Huntington_HTT_Mutation_Lab
 
-**Date of analysis:** September 14, 2026
+**Date of analysis:** September 15 and 17, 2026
