@@ -218,4 +218,4 @@ National Center for Biotechnology Information. (n.d.). *NM_002111.8 — HTT tran
 
 National Center for Biotechnology Information. (n.d.). *NP_002102.4 — Huntingtin protein*. NCBI Reference Sequence.
 
-National Center for Biotechnology Information. (n.d.). *ClinVar*. National Library of Medicine.
+National Center for Biotechnology Information. (n.d.). *ClinVar*. National Library of Medicine. https://www.ncbi.nlm.nih.gov/clinvar/variation/409/
